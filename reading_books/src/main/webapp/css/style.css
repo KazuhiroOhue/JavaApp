@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+textarea {
+	resize: none;
+	width:300px;
+	height:200px;
+}
+
+input.title {
+	width: 300px;
+}
+/* 改行用（たぶん） */
+p {
+  white-space: pre-wrap;
+}
